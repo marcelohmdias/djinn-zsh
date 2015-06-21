@@ -29,16 +29,16 @@ RPROMPT='$DJINN_TIME'
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[white]%}❮%{$fg[red]%}%B"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%b%{$fg_bold[white]%}❯%{$reset_color%} "
 ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[white]%} ♦"
-ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg_bold[grey]%} !"
+ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg_bold[yellow]%} !"
 ZSH_THEME_GIT_PROMPT_UNTRACKED="%{$fg[red]%} ?"
 
-ZSH_THEME_GIT_PROMPT_ADDED="%{$fg[green]%} ✓"
+ZSH_THEME_GIT_PROMPT_ADDED="%{$fg[green]%} ✔"
 ZSH_THEME_GIT_PROMPT_DELETED="%{$fg[red]%} ✗"
-ZSH_THEME_GIT_PROMPT_RENAMED="%{$fg[cyan]%} ᗒ"
-ZSH_THEME_GIT_PROMPT_MODIFIED="%{$fg[yellow]%} ⚡"
-ZSH_THEME_GIT_PROMPT_MERGED="%{$fg[blue]%} ⤨"
-ZSH_THEME_GIT_PROMPT_UNMERGED="%{$fg[magenta]%} ⇉"
-ZSH_THEME_GIT_PROMPT_AHEAD="%{$fg[grey]%} 𝝙"
+ZSH_THEME_GIT_PROMPT_RENAMED="%{$fg[cyan]%} ⚡"
+ZSH_THEME_GIT_PROMPT_MODIFIED="%{$fg[yellow]%} ↺"
+ZSH_THEME_GIT_PROMPT_MERGED="%{$fg[blue]%} ⇉"
+ZSH_THEME_GIT_PROMPT_UNMERGED="%{$fg[magenta]%} ⇄"
+ZSH_THEME_GIT_PROMPT_AHEAD="%{$fg[cyan]%} ▶"
 
 
 # LS colors, made with http://geoff.greer.fm/lscolors/
