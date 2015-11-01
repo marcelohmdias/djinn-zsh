@@ -32,4 +32,4 @@ As cores devem ser configuradas no próprio bash. ツ
 
 ---
 
-![Djinn](https://dl-web.dropbox.com/get/Imagens/Public/djinn.gif?_subject_uid=110211034&w=AABPFjmnvHQrzRjxv1RnlIxqjUsOHero1D-mlV02JTD2Zw&size=1280x960&size_mode=2)
+![Djinn](https://raw.githubusercontent.com/marcelohmdias/djinn-zsh/master/img/djinn.gif)
