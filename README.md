@@ -12,7 +12,7 @@ Based on [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) themes.
 
 ---
 
-| NOME DA COR    | RGB           | HEXADECIMAL | COR                                    	             |
+| COLOR NAME     | RGB           | HEXADECIMAL | COLOR                                   	             |
 |----------------|---------------|-------------|---------------------------------------------------------|
 | Dark Grey      | 40, 40, 40    | #282828     | ![Dark Grey](http://placehold.it/20/282828/282828)      |
 | Lymch          | 108, 122, 137 | #6c7a89     | ![Lymch](http://placehold.it/20/6C7A89/6C7A89)          |
